@@ -1,128 +1,128 @@
 .auto {
-  cursor: auto;
+	cursor: auto;
 }
 .default {
-  cursor: default;
+	cursor: default;
 }
 .none {
-  cursor: none;
+	cursor: none;
 }
 .context-menu {
-  cursor: context-menu;
+	cursor: context-menu;
 }
 .help {
-  cursor: help;
+	cursor: help;
 }
 .pointer {
-  cursor: pointer;
+	cursor: pointer;
 }
 .progress {
-  cursor: progress;
+	cursor: progress;
 }
 .wait {
-  cursor: wait;
+	cursor: wait;
 }
 .cell {
-  cursor: cell;
+	cursor: cell;
 }
 .crosshair {
-  cursor: crosshair;
+	cursor: crosshair;
 }
 .text {
-  cursor: text;
+	cursor: text;
 }
 .vertical-text {
-  cursor: vertical-text;
+	cursor: vertical-text;
 }
 .alias {
-  cursor: alias;
+	cursor: alias;
 }
 .copy {
-  cursor: copy;
+	cursor: copy;
 }
 .move {
-  cursor: move;
+	cursor: move;
 }
 .no-drop {
-  cursor: no-drop;
+	cursor: no-drop;
 }
 .not-allowed {
-  cursor: not-allowed;
+	cursor: not-allowed;
 }
 .all-scroll {
-  cursor: all-scroll;
+	cursor: all-scroll;
 }
 .col-resize {
-  cursor: col-resize;
+	cursor: col-resize;
 }
 .row-resize {
-  cursor: row-resize;
+	cursor: row-resize;
 }
 .n-resize {
-  cursor: n-resize;
+	cursor: n-resize;
 }
 .e-resize {
-  cursor: e-resize;
+	cursor: e-resize;
 }
 .s-resize {
-  cursor: s-resize;
+	cursor: s-resize;
 }
 .w-resize {
-  cursor: w-resize;
+	cursor: w-resize;
 }
 .ns-resize {
-  cursor: ns-resize;
+	cursor: ns-resize;
 }
 .ew-resize {
-  cursor: ew-resize;
+	cursor: ew-resize;
 }
 .ne-resize {
-  cursor: ne-resize;
+	cursor: ne-resize;
 }
 .nw-resize {
-  cursor: nw-resize;
+	cursor: nw-resize;
 }
 .se-resize {
-  cursor: se-resize;
+	cursor: se-resize;
 }
 .sw-resize {
-  cursor: sw-resize;
+	cursor: sw-resize;
 }
 .nesw-resize {
-  cursor: nesw-resize;
+	cursor: nesw-resize;
 }
 .nwse-resize {
-  cursor: nwse-resize;
+	cursor: nwse-resize;
 }
 
 body {
-  text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
-    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	text-align: center;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+		"Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .cursors {
-  display: flex;
-  flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .cursors > div {
-  flex: 150px;
-  padding: 10px 2px;
-  white-space: nowrap;
-  border: 1px solid #eee;
-  border-radius: 5px;
-  margin: 0 5px 5px 0;
+	flex: 150px;
+	padding: 10px 2px;
+	white-space: nowrap;
+	border: 1px solid #eee;
+	border-radius: 5px;
+	margin: 0 5px 5px 0;
 }
 
 .cursors > div:hover {
-  background: #eee;
+	background: #eee;
 }
 
 code {
-  display: inline-block;
-  background-color: #eee;
-  padding: 4px 6px;
-  border-radius: 4px;
-  font-size: 32px;
+	display: inline-block;
+	background-color: #eee;
+	padding: 4px 6px;
+	border-radius: 4px;
+	font-size: 32px;
 }
